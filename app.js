@@ -1,4 +1,3 @@
-console.log("Rondando sistema de gerenciamento de jogos.");
 function setText(valor) {
     for (let i = 0; i <= valor; i++) {
       let p = document.createElement('p');
