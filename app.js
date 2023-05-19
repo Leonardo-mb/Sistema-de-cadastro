@@ -8,3 +8,5 @@ function setText(valor) {
 };
 
 setText(10);
+
+console.log("Teste para rollback de commit");
