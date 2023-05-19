@@ -4,7 +4,7 @@ function setText(valor) {
       let p = document.createElement('p');
       p.innerText = "Valor: " + i;
       document.body.appendChild(p);
-    }
-  }
+    }    
+};
 
 setText(10);
